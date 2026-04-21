@@ -9,13 +9,9 @@
 
 - J'ai développé une [Tier liste](https://github.com/E5E5E5E5E5eeeee/Tier-liste)
 
-- Pour me contacter **ejioforemmanuel0529@gmail.com**
+- Pour me contacter (mailto:ejioforemmanuel0529@gmail.com)
 
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages et outils:</h3>
+<h3 align="left">Langages et outils maitrisés:</h3>
 <table border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></td>
