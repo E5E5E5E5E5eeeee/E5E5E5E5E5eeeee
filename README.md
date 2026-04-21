@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour je suis Emmanuel Ejiofor</h1>
 <h3 align="center">Un étudiant en première année de BUT Informatique qui recherche une alternance pour sa deuxième année.</h3>
 
-- J'ai développé un jeu [Monopoly](https://github.com/E5E5E5E5E5eeeee/Monopoly)
-
 - Je me forme actuellement à utiliser **MongoDB & Oracle**
+
+- J'ai développé un jeu [Monopoly](https://github.com/E5E5E5E5E5eeeee/Monopoly)
 
 - J'ai développé un jeu [Snake](https://github.com/E5E5E5E5E5eeeee/Snake)
 
