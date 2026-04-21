@@ -1,17 +1,22 @@
-<h1 align="center">Bonjour je suis Emmanuel Ejiofor</h1>
-<h3 align="center">Un étudiant en première année de BUT Informatique qui recherche une alternance en développement logiciel ou en réseaux pour sa deuxième année.</h3>
+<h1 align="center">Bonjour, je suis Emmanuel Ejiofor 👋</h1>
+<h3 align="center">Étudiant en 1ère année de BUT Informatique</h3>
+<p align="center">🔎 À la recherche d'une <b>alternance en développement logiciel ou réseaux</b> pour ma deuxième année.</p>
 
-- Je me forme actuellement à utiliser **MongoDB & Oracle**
+---
 
-- J'ai développé un jeu [Monopoly](https://github.com/E5E5E5E5E5eeeee/Monopoly)
+### 🚀 À propos de moi
+- 🛠️ Je me forme actuellement sur les bases de données **MongoDB & Oracle**.
+- 🕹️ **[Monopoly](https://github.com/E5E5E5E5E5eeeee/Monopoly)** : Simulation du célèbre jeu de plateau développé en Python avec Processing.
+- 🐍 **[Snake](https://github.com/E5E5E5E5E5eeeee/Snake)** : Jeu d'arcade interactif développé en Python(bibliothèque Processing).
+- 📊 **[Tier liste](https://github.com/E5E5E5E5E5eeeee/Tier-liste)** : Application de classement avec interface **Tkinter** et gestion de base de données **SQLite3**.
 
-- J'ai développé un jeu [Snake](https://github.com/E5E5E5E5E5eeeee/Snake)
+### 📬 Me contacter
+- 📧 Email : [ejioforemmanuel0529@gmail.com](mailto:ejioforemmanuel0529@gmail.com)
 
-- J'ai développé une [Tier liste](https://github.com/E5E5E5E5E5eeeee/Tier-liste)
 
-- Pour me contacter (mailto:ejioforemmanuel0529@gmail.com)
+---
 
-<h3 align="left">Langages et outils maitrisés:</h3>
+### 🛠️ Langages et outils maîtrisés
 <table border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></td>
