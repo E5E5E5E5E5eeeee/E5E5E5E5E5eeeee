@@ -7,7 +7,7 @@
 ### 🚀 À propos de moi
 - 🛠️ Je me forme actuellement sur les bases de données **MongoDB & Oracle**.
 - 🕹️ **[Monopoly](https://github.com/E5E5E5E5E5eeeee/Monopoly)** : Simulation du célèbre jeu de plateau développé en Python avec Processing.
-- 🐍 **[Snake](https://github.com/E5E5E5E5E5eeeee/Snake)** : Jeu d'arcade interactif développé en Python(bibliothèque Processing).
+- 🐍 **[Snake](https://github.com/E5E5E5E5E5eeeee/Snake)** : Jeu d'arcade interactif développé en Python (bibliothèque Processing).
 - 📊 **[Tier liste](https://github.com/E5E5E5E5E5eeeee/Tier-liste)** : Application de classement avec interface **Tkinter** et gestion de base de données **SQLite3**.
 
 ### 📬 Me contacter
