@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour je suis Emmanuel Ejiofor</h1>
-<h3 align="center">Un étudiant en première année de BUT Informatique qui recherche une alternance pour sa deuxième année.</h3>
+<h3 align="center">Un étudiant en première année de BUT Informatique qui recherche une alternance en développement logiciel ou en réseaux pour sa deuxième année.</h3>
 
 - Je me forme actuellement à utiliser **MongoDB & Oracle**
 
